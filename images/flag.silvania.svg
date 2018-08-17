@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="900" height="600" id="svg2" sodipodi:version="0.32" inkscape:version="0.46" version="1.0" sodipodi:docname="flag.silvania.svg" inkscape:output_extension="org.inkscape.output.svg.inkscape" inkscape:export-filename="/home/volodymyr/Desktop/airsoft/!Actions/!Silvania-Normania/flags/flag.silvania.png" inkscape:export-xdpi="89.981293" inkscape:export-ydpi="89.981293">
+  <defs id="defs4">
+    <inkscape:perspective sodipodi:type="inkscape:persp3d" inkscape:vp_x="0 : 526.18109 : 1" inkscape:vp_y="0 : 1000 : 0" inkscape:vp_z="744.09448 : 526.18109 : 1" inkscape:persp3d-origin="372.04724 : 350.78739 : 1" id="perspective10"/>
+    <marker orient="auto" markerHeight="3" markerWidth="4" markerUnits="strokeWidth" refY="5" refX="10" viewBox="0 0 10 10" id="ArrowStart">
+      <path id="path2909" d="M 10,0 L 0,5 L 10,10 L 10,0 z"/>
+    </marker>
+    <marker orient="auto" markerHeight="3" markerWidth="4" markerUnits="strokeWidth" refY="5" refX="0" viewBox="0 0 10 10" id="ArrowEnd">
+      <path id="path2906" d="M 0,0 L 10,5 L 0,10 L 0,0 z"/>
+    </marker>
+    <inkscape:perspective id="perspective2976" inkscape:persp3d-origin="603.90503 : 284.71167 : 1" inkscape:vp_z="1207.8101 : 427.0675 : 1" inkscape:vp_y="0 : 1000 : 0" inkscape:vp_x="0 : 427.0675 : 1" sodipodi:type="inkscape:persp3d"/>
+  </defs>
+  <sodipodi:namedview id="base" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" gridtolerance="10000" guidetolerance="10" objecttolerance="10" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:zoom="0.86166667" inkscape:cx="450" inkscape:cy="300" inkscape:document-units="px" inkscape:current-layer="layer1" showgrid="false" width="800px" inkscape:snap-guide="true" inkscape:window-width="1274" inkscape:window-height="725" inkscape:window-x="0" inkscape:window-y="47" showguides="true" inkscape:guide-bbox="true"/>
+  <metadata id="metadata7">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g inkscape:label="Layer 1" inkscape:groupmode="layer" id="layer1">
+    <path style="fill:#0000ff;stroke:none;stroke-width:0.01025663000000000" d="M -0.0001709215,0.00014868194 L 900.00045,0.00014868194 L 900.00045,599.99985 L -0.0001709215,599.99985 L -0.0001709215,0.00014868194 z" id="path2725"/>
+    <path id="path2729" d="M 900,171.186 L 565.2558,171.18617 L 450.00124,76.27034 L 336.02116,171.18684 L 0,171.18684 L 0,415.25489 L 319.68539,415.25489 L 450.00124,523.72966 L 580.31708,415.25423 L 900,415.25423 L 900,171.186 z" style="fill:#ffff00;stroke:none;stroke-width:0.00938970000000000" sodipodi:nodetypes="ccccccccccc"/>
+    <path id="path2731" d="M 207.28724,299.99967 L 450,97.965691 L 692.71276,299.99967 L 450,502.03431 L 207.28724,299.99967 z" style="fill:#0000ff;stroke:none;stroke-width:0.00938970000000000"/>
+    <path id="path2733" d="M 450.00264,151.03491 C 458.09799,160.07022 465.1454,168.50804 470.79578,177.85601 C 486.54266,203.93389 491.84727,232.2527 483.03187,255.16292 C 465.53357,303.63367 458.81141,315.936 458.81141,354.53348 L 471.25285,354.53348 C 472.03383,312.07745 488.03839,283.65662 511.82564,275.12739 C 522.29375,271.08733 535.87786,273.08848 548.32592,285.90153 C 563.73365,301.75705 568.22084,345.43855 522.9873,353.8406 C 527.77588,346.72098 527.37248,331.13175 517.79465,325.62975 C 510.47101,321.9686 502.20144,323.40073 498.3356,326.54984 C 492.11687,330.31036 486.12534,342.34707 486.12534,354.53348 L 507.60541,354.505 L 507.60541,378.49163 L 463.02104,378.4658 C 463.59999,390.80391 470.33474,400.68777 482.8517,406.18712 C 481.23409,411.38574 473.68523,421.98369 463.31846,421.26695 C 461.27624,432.47829 459.32411,438.77585 450.00264,448.96509 C 440.68182,438.77585 438.73499,432.47829 436.68747,421.26695 C 426.31475,421.98369 418.7639,411.38574 417.15424,406.18712 C 429.67384,400.68777 436.40462,390.80391 436.98357,378.4658 L 392.40649,378.49163 L 392.40053,354.505 L 413.88059,354.53348 C 413.88059,342.34707 407.89172,330.31036 401.66305,326.54984 C 397.79853,323.40073 389.53095,321.9686 382.21129,325.62975 C 372.63346,331.13175 372.22939,346.72098 377.01135,353.8406 C 331.77715,345.43855 336.26831,301.75705 351.67339,285.90153 C 364.12742,273.08848 377.70556,271.08733 388.17698,275.12739 C 411.96754,283.65662 427.97078,312.07745 428.74713,354.53348 L 441.18724,354.53348 C 441.18724,315.936 434.47236,303.63367 416.97274,255.16292 C 408.16132,232.2527 413.45599,203.93389 429.21016,177.85601 C 434.85391,168.50804 441.9,160.07022 450.00264,151.03491 L 450.00264,151.03491 z" style="fill:#ffff00;stroke:none;stroke-width:0.00938970000000000"/>
+  </g>
+</svg>

@@ -1,0 +1,107 @@
+<!doctype html>
+<html class="no-js" lang="en">
+<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="./theme/css/foundation.min.css" media="all">
+        <script type="text/javascript" src="./theme/js/modernizr.js"></script>
+        <link href='https://fonts.googleapis.com/css?family=Exo+2:400,300,700,300italic,400italic,700italic,900,900italic' rel='stylesheet' type='text/css'>
+        <link rel="stylesheet" href="./theme/css/lamboz.css" media="all">
+        <title>Airsoft Dnipro Fest</title>
+        <meta charset="utf-8" />
+</head>
+<body>
+
+    <div class="main-menu">
+      <div id="sitelinks">
+        <a href="/"><img src="/theme/img/home.svg" width="25px" height="25px" alt="Головна"></a>&nbsp;
+        <a href="/operation-bifrost.html">Гра</a>&nbsp;
+        <a href="/pages/rules.html">Правила</a>&nbsp;
+        <a href="/pages/gallery.html">Галерея</a>&nbsp;
+        <a href="/pages/faq.html">ЧаПи</a>&nbsp;
+        <a href="https://goo.gl/forms/PdponXJnNLbRJ6SA3">Реєстрація</a>&nbsp;
+
+      </div>
+
+      <div id="soclinks">
+
+        +38 067 755 2517
+        <a href="mailto:airsoftdniprofest@gmail.com">airsoftdniprofest@gmail.com</a>
+        <a href="https://www.facebook.com/groups/1459651380759788/"><img src="/theme/img/facebook.svg" width="30px"></a>&nbsp;
+        <a href="https://www.youtube.com/channel/UCQi7BX7zyv_HGt4vx9HaSUA"><img src="/theme/img/youtube.svg" width="30px"></a>&nbsp;
+        <a href="https://www.instagram.com/airsoft_fest"><img src="/theme/img/instagram.svg" width="30px"></a>&nbsp;
+      </div>
+    </div>
+
+    <div class="hp-header">
+        <div class="page-header">
+            <div class="content-header">
+                <div id="title-block">
+                <p class="blurb"><img src="/images/logo.png"></p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="content">
+        <div class="data-holder">
+        <div class="row">
+           <div class="large-12 content-column column">
+<h1>Archives for Airsoft Dnipro Fest</h1>
+
+<dl>
+    <dt>вт 17 липня 2018</dt>
+    <dd><a href="./intro-2018.html">AIRSOFT DNIPRO FEST 2018</a></dd>
+    <dt>вт 17 липня 2018</dt>
+    <dd><a href="./map.html">Місце проведення</a></dd>
+    <dt>вт 17 липня 2018</dt>
+    <dd><a href="./operation-bifrost.html">Операція «Bifröst»</a></dd>
+    <dt>вт 17 липня 2018</dt>
+    <dd><a href="./partners-2018.html">Партнери фестивалю 2018</a></dd>
+    <dt>вт 17 липня 2018</dt>
+    <dd><a href="./program-2018.html">Програма фестивалю 2018</a></dd>
+</dl>
+            </div>
+
+         </div>
+    </div>
+</div>
+<div class="bottom-menu">
+  <div id="timer">
+      <p id="countdown"></p>
+  </div>
+  <div id="trademark">
+    © 2018 ADF Team
+  </div>
+</div>
+<script>
+// Set the date we're counting down to
+var countDownDate = new Date("Sep 22, 2018 10:00:00").getTime();
+
+// Update the count down every 1 second
+var x = setInterval(function() {
+
+    // Get todays date and time
+    var now = new Date().getTime();
+    
+    // Find the distance between now and the count down date
+    var distance = countDownDate - now;
+    
+    // Time calculations for days, hours, minutes and seconds
+    var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+    var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+    var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+    var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+    
+    // Output the result in an element with id="demo"
+    document.getElementById("countdown").innerHTML = "Початок через: " + days + ":" + ("0" +hours).slice(-2) + ":"
+    + ("0"+ minutes).slice(-2) + ":" + ("0"+seconds).slice(-2);
+    
+    // If the count down is over, write some text 
+    if (distance < 0) {
+        clearInterval(x);
+        document.getElementById("countdown").innerHTML = "EXPIRED";
+    }
+}, 1000);
+</script>
+</body>
+</html>
